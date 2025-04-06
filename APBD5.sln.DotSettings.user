@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50feabc9_002Df688_002D41fd_002D9930_002D9fd7a04f811d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnAllSalesmen" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldReturnDept30EmpsOrderedBySalaryDesc&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldReturnAllSalesmen&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldReturnEmployeesFromChicago&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldSelectNamesAndSalaries&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldJoinEmployeesWithDepartments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldCountEmployeesPerDepartment&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldReturnEmployeesWithCommission&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldMatchEmployeeToSalaryGrade&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldCalculateAverageSalaryPerDept&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::EmpDeptSalgradeTests.ShouldReturnEmployeesEarningMoreThanDeptAverage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnEmployeeManagerPairs&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldFindAnyWithCommissionOver400&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnTotalIncomeIncludingCommission&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4AC3081C-36AE-4B03-B223-332AF4E68228::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldJoinEmpDeptSalgrade&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
